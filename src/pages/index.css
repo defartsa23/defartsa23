@@ -171,6 +171,15 @@ footer {
   margin: 60px auto;
 }
 
+.footer {
+  position: fixed;
+  left: 0;
+  width: 100%;
+  bottom: 0;
+  text-align: center;
+  background-color: #d9e7f8;
+}
+
 .hero {
   margin: 50px auto;
   position: relative;
@@ -342,7 +351,7 @@ h1.name {
 ol {
   position: relative;
   display: block;
-  margin: 100px 0;
+  margin-bottom: 14%;
   height: 2px;
   background: #eef0f7;
 }

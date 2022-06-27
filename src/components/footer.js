@@ -1,7 +1,7 @@
 import * as React from "react"
 
 const Footer = () => (
-  <footer className="container">
+  <footer className="footer">
     <span>
       Copyright @ 2022 <a href="https://github.com/defartsa23">defartsa</a> |
       theme by <a href="https://codeytek.com/">Imran Sayed</a> | hosted by{" "}

@@ -20,7 +20,6 @@ const Layout = ({ children }) => {
     <>
       <Header greetings={data.site.siteMetadata?.greetings || `Greetings`} />
       <main>{children}</main>
-      <br></br>
       <Footer />
     </>
   )
