@@ -3,3 +3,4 @@ Hi! I'm Deza, a Software Engineering since 2013. Currently working as a Software
 
 ### Get in touch with me
 - Linkedin: [@defartsa23](https://linkedin.com/in/deza-farras-tsany)
+- E-Mail : [i@defartsa.dev](mailto:i@defartsa.dev)
